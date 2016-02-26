@@ -7,25 +7,25 @@
  * 1: http://www.uw-team.org/hackme/level1.htm
 
     ```
-    l: a jednak umiem czytac
+    pass: a jednak umiem czytac
     ```
 
  * 2: http://www.uw-team.org/hackme/ok_next.htm
 
     ```
-    l: to bylo za proste
+    pass: to bylo za proste
     ```
 
  * 3: http://www.uw-team.org/hackme/formaster.htm
 
     ```
-    l: cdqwenow
+    pass: cdqwenow
     ```
 
  * 4: http://www.uw-team.org/hackme/cdqwenow.htm
 
     ```
-    l: 171
+    pass: 171
     ```
 
  * 5: http://www.uw-team.org/hackme/go171.htm:
@@ -38,19 +38,19 @@
  * 6: http://www.uw-team.org/hackme/42x.htm
 
     ```
-    l: bxd_ex_ex
+    pass: bxd_ex_ex
     ```
 
  * 7: http://www.uw-team.org/hackme/bxd_ex_ex.htm
 
     ```
-    l: kocham cie
+    pass: kocham cie
     ```
 
  * 8: http://www.uw-team.org/hackme/plxszn_xrv.htm
 
     ```
-    l: qrupjf162
+    pass: qrupjf162
     ```
 
 Koniec: http://www.uw-team.org/hackme/qrupjf162.htm
@@ -60,25 +60,25 @@ Koniec: http://www.uw-team.org/hackme/qrupjf162.htm
  * 1: http://www.uw-team.org/hm2/level1.htm
 
     ```
-    l: text
+    pass: text
     ```
     
  * 2: http://www.uw-team.org/hm2/text.htm
 
     ```
-    l: banalne
+    pass: banalne
     ```
 
  * 3: http://www.uw-team.org/hm2/banalne.htm
 
     ```
-    l: 1234
+    pass: 1234
     ```
 
  * 4: http://www.uw-team.org/hm2/1234.htm
 
     ```
-    l: 102
+    pass: 102
     ```
 
  * 5: http://www.uw-team.org/hm2/102.php
@@ -103,7 +103,7 @@ Koniec: http://www.uw-team.org/hackme/qrupjf162.htm
  * 8: http://www.uw-team.org/hm2/listing.php
  
     ```
-    l: kxnxgxnxa
+    pass: kxnxgxnxa
     ```
 
  * 9: http://www.uw-team.org/hm2/pokaz.php
@@ -121,25 +121,25 @@ Koniec.
  * 1: http://www.uw-team.org/hm3next/level1x.htm
 
     ```
-    l: hackme
+    pass: hackme
     ```
 
  * 2: http://www.uw-team.org/hm3next/hackmex.htm
 
     ```
-    l: 1245
+    pass: 1245
     ```
 
  * 3: http://www.uw-team.org/hm3next/1245q3.htm
 
     ```
-    l: wiola
+    pass: wiola
     ```
 
  * 4: http://www.uw-team.org/hm3next/wiola.htm
 
     ```
-    l: ananas
+    pass: ananas
     ```
 
  * 5: http://www.uw-team.org/hm3next/ananasq.htm
@@ -153,20 +153,20 @@ Koniec.
     ```
     http://www.uw-team.org/hm3next/skrypty/
     http://www.uw-team.org/hm3next/skrypty/admin.php
-    l: tanie rozmowy!
+    pass: tanie rozmowy!
     ```
 
  * 7: http://www.uw-team.org/hm3next/fajnex12.php (BRANA PODPOWIEDZ)
 
     ```
     http://www.uw-team.org/hm3next/fajnex12.php?id=secret
-    l: ' or passwd="ok
+    pass: ' or passwd="ok
     ```
 
  * 8: http://www.uw-team.org/hm3next/haxoruj.php
 
     ```
-    l: iamthebest
+    pass: iamthebest
     ```
 
  * 9: http://www.uw-team.org/hm3next/thebest.php
@@ -191,13 +191,13 @@ Koniec.
  * 12: http://www.uw-team.org/hm3next/dalsze12.php
 
     ```
-    l: Upm6
+    pass: Upm6
     ```
 
  * 13: http://www.uw-team.org/hm3next/26zUpm6.php
 
     ```
-    l: fajne
+    pass: fajne
     ```
 
  * 14: http://www.uw-team.org/hm3next/fajneqaz.php (NIE WIEM JAKIE HASŁO)
@@ -207,7 +207,8 @@ Koniec.
     ```
     http://www.uw-team.org/hm3next/dane/kotek.jpg
     http://www.uw-team.org/hm3next/dane/users.txt
-    l: admin p: secret
+    login: admin
+    pass: secret
     ```
 
 Koniec.
@@ -218,21 +219,22 @@ Koniec.
 
 Kod dostępu: f73@8c6
 
- * Cookies: FLG-LETSGO
- * Network: FLG-ITS404
- * Plik robots.txt: FLG-ROBOTS
- * Plik zerknij.gif: FLG-OMGWOW
- * Plik: /images/a-co-to.txt: FLG-DIRLST
- * Nagłówek: X-Flag: FLG-ABDUL7
- * http://ctf.uw-team.org/?page=1: FLG-PAGESX
- * Cookies -> admin=1: FLG-COOKIE
- * http://ctf.uw-team.org/?page=newsy&kod=%27%20or%201=1%20--: FLG-SQLINJ
- * http://ctf.uw-team.org/?kod=admin&page=kodowanie -> unbase64(RkxHLUJBU0U2NA==): FLG-BASE64
- * Komentarz HTML: FLG-121212
- * curl http://ctf.uw-team.org/?page=przekieruj: FLG-REDIR3
- * `<script>1</script>` w polu weryfikacji flagi: FLG-XSSWOW (BRANA BYŁA PODPOWIEDZ)
+1. Cookies: FLG-LETSGO
+2. Network: FLG-ITS404
+3. Plik robots.txt: FLG-ROBOTS
+4. Plik zerknij.gif: FLG-OMGWOW
+5. Plik: /images/a-co-to.txt: FLG-DIRLST
+6. Nagłówek: X-Flag: FLG-ABDUL7
+7. http://ctf.uw-team.org/?page=1: FLG-PAGESX
+8. Cookies -> admin=1: FLG-COOKIE
+9. http://ctf.uw-team.org/?page=newsy&kod=%27%20or%201=1%20--: FLG-SQLINJ
+10. http://ctf.uw-team.org/?kod=admin&page=kodowanie -> unbase64(RkxHLUJBU0U2NA==): FLG-BASE64
+11. Komentarz HTML: FLG-121212
+12. curl http://ctf.uw-team.org/?page=przekieruj: FLG-REDIR3
+13. `<script>1</script>` w polu weryfikacji flagi: FLG-XSSWOW (BRANA BYŁA PODPOWIEDZ)
 
 =====================================================================================
 
 Więcej: http://piecioshka.pl/blog/2011/09/12/hackmemove-kolejna-odslona-programistycznych-lamiglowek.html
+
 Pomocne: http://piecioshka.pl/projects/wkr-szyfr-przesuwny-lub-vigenere-a/
