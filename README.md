@@ -1,8 +1,10 @@
 # hackme-solutions
 
-> Zapis gry 5 wersji Hackme by Unknow dostępne na http://uw-team.org/.
+Zapis 5 wersji gier Hackme by Unknow
 
 ##  Hackme 1.0 - http://www.uw-team.org/hackme/index.htm
+
+<details>
 
  * 1: http://www.uw-team.org/hackme/level1.htm
 
@@ -55,7 +57,11 @@
 
 Koniec: http://www.uw-team.org/hackme/qrupjf162.htm
 
+</details>
+
 ## Hackme 2.0 - http://www.uw-team.org/hm2/index.htm
+
+<details>
 
  * 1: http://www.uw-team.org/hm2/level1.htm
 
@@ -115,8 +121,11 @@ Koniec: http://www.uw-team.org/hackme/qrupjf162.htm
 
 Koniec.
 
+</details>
 
 ## Hackme 3.0 - http://www.uw-team.org/hm3next/
+
+<details>
 
  * 1: http://www.uw-team.org/hm3next/level1x.htm
 
@@ -213,28 +222,40 @@ Koniec.
 
 Koniec.
 
+</details>
+
 ## HackmeMove - http://www.uw-team.org/hm_12819_0e0d3ca2.html
+
+<details>
+
+Obecnie niedostępne.
+
+</details>
 
 ## Hackme CTF - http://ctf.uw-team.org/
 
+<details>
+
 Kod dostępu: f73@8c6
 
-1. Cookies: FLG-LETSGO
-2. Network: FLG-ITS404
-3. Plik robots.txt: FLG-ROBOTS
-4. Plik zerknij.gif: FLG-OMGWOW
-5. Plik: /images/a-co-to.txt: FLG-DIRLST
-6. Nagłówek: X-Flag: FLG-ABDUL7
-7. http://ctf.uw-team.org/?page=1: FLG-PAGESX
-8. Cookies -> admin=1: FLG-COOKIE
-9. http://ctf.uw-team.org/?page=newsy&kod=%27%20or%201=1%20--: FLG-SQLINJ
-10. http://ctf.uw-team.org/?kod=admin&page=kodowanie -> unbase64(RkxHLUJBU0U2NA==): FLG-BASE64
-11. Komentarz HTML: FLG-121212
-12. curl http://ctf.uw-team.org/?page=przekieruj: FLG-REDIR3
-13. `<script>1</script>` w polu weryfikacji flagi: FLG-XSSWOW (BRANA BYŁA PODPOWIEDZ)
+1. `FLG-LETSGO` — DevTools Cookies (wartość ciastka "flaga")
+2. `FLG-ITS404` — DevTools Network
+3. `FLG-ROBOTS` — Zawartość pliku robots.txt
+4. `FLG-OMGWOW` — Zawartość pliku zerknij.gif
+5. `FLG-DIRLST` — Plik: /images/a-co-to.txt
+6. `FLG-ABDUL7` — Nagłówek: X-Flag po wydaniu polecenia `curl -I "http://ctf.uw-team.org/"`
+7. `FLG-PAGESX` — http://ctf.uw-team.org/?page=1
+8. `FLG-COOKIE` — DevTools Cookies -> admin=1
+9. `FLG-SQLINJ` — http://ctf.uw-team.org/?page=newsy&kod=%27%20or%201=1%20--
+10. `FLG-BASE64` — http://ctf.uw-team.org/?kod=admin&page=kodowanie -> unbase64(RkxHLUJBU0U2NA==)
+11. `FLG-121212` — Komentarz HTML
+12. `FLG-REDIR3` — curl http://ctf.uw-team.org/?page=przekieruj
+13. `FLG-XSSWOW` — `<script>1</script>` w polu weryfikacji flagi
+
+</details>
 
 =====================================================================================
 
 Więcej: http://piecioshka.pl/blog/2011/09/12/hackmemove-kolejna-odslona-programistycznych-lamiglowek.html
 
-Pomocne: http://piecioshka.pl/projects/wkr-szyfr-przesuwny-lub-vigenere-a/
+Pomocne: https://github.com/piecioshka/wkr-szyfr-przesuwny-lub-vigenere-a/
