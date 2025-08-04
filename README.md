@@ -1,59 +1,59 @@
 # hackme-solutions
 
-Zapis 5 wersji gier Hackme by Unknow
+Zapis 5 wersji gier Hackme by [Unknow](https://github.com/unkn0w)
 
-##  Hackme 1.0 - http://www.uw-team.org/hackme/index.htm
+## Hackme 1.0 - http://www.uw-team.org/hackme/index.htm
 
 <details>
 
- * 1: http://www.uw-team.org/hackme/level1.htm
+- 1: http://www.uw-team.org/hackme/level1.htm
 
-    ```
-    pass: a jednak umiem czytac
-    ```
+  ```
+  pass: a jednak umiem czytac
+  ```
 
- * 2: http://www.uw-team.org/hackme/ok_next.htm
+- 2: http://www.uw-team.org/hackme/ok_next.htm
 
-    ```
-    pass: to bylo za proste
-    ```
+  ```
+  pass: to bylo za proste
+  ```
 
- * 3: http://www.uw-team.org/hackme/formaster.htm
+- 3: http://www.uw-team.org/hackme/formaster.htm
 
-    ```
-    pass: cdqwenow
-    ```
+  ```
+  pass: cdqwenow
+  ```
 
- * 4: http://www.uw-team.org/hackme/cdqwenow.htm
+- 4: http://www.uw-team.org/hackme/cdqwenow.htm
 
-    ```
-    pass: 171
-    ```
+  ```
+  pass: 171
+  ```
 
- * 5: http://www.uw-team.org/hackme/go171.htm:
+- 5: http://www.uw-team.org/hackme/go171.htm:
 
-    ```
-    42 (sekunda)
-    pomoc = 3
-    ```
+  ```
+  42 (sekunda)
+  pomoc = 3
+  ```
 
- * 6: http://www.uw-team.org/hackme/42x.htm
+- 6: http://www.uw-team.org/hackme/42x.htm
 
-    ```
-    pass: bxd_ex_ex
-    ```
+  ```
+  pass: bxd_ex_ex
+  ```
 
- * 7: http://www.uw-team.org/hackme/bxd_ex_ex.htm
+- 7: http://www.uw-team.org/hackme/bxd_ex_ex.htm
 
-    ```
-    pass: kocham cie
-    ```
+  ```
+  pass: kocham cie
+  ```
 
- * 8: http://www.uw-team.org/hackme/plxszn_xrv.htm
+- 8: http://www.uw-team.org/hackme/plxszn_xrv.htm
 
-    ```
-    pass: qrupjf162
-    ```
+  ```
+  pass: qrupjf162
+  ```
 
 Koniec: http://www.uw-team.org/hackme/qrupjf162.htm
 
@@ -63,61 +63,61 @@ Koniec: http://www.uw-team.org/hackme/qrupjf162.htm
 
 <details>
 
- * 1: http://www.uw-team.org/hm2/level1.htm
+- 1: http://www.uw-team.org/hm2/level1.htm
 
-    ```
-    pass: text
-    ```
-    
- * 2: http://www.uw-team.org/hm2/text.htm
+  ```
+  pass: text
+  ```
 
-    ```
-    pass: banalne
-    ```
+- 2: http://www.uw-team.org/hm2/text.htm
 
- * 3: http://www.uw-team.org/hm2/banalne.htm
+  ```
+  pass: banalne
+  ```
 
-    ```
-    pass: 1234
-    ```
+- 3: http://www.uw-team.org/hm2/banalne.htm
 
- * 4: http://www.uw-team.org/hm2/1234.htm
+  ```
+  pass: 1234
+  ```
 
-    ```
-    pass: 102
-    ```
+- 4: http://www.uw-team.org/hm2/1234.htm
 
- * 5: http://www.uw-team.org/hm2/102.php
+  ```
+  pass: 102
+  ```
 
-    ```
-    url: ?log=1&has=1
-    ```
+- 5: http://www.uw-team.org/hm2/102.php
 
- * 6: http://www.uw-team.org/hm2/url.php
+  ```
+  url: ?log=1&has=1
+  ```
 
-    ```
-    cookie: nastepna_strona=ciastka.htm
-    ```
+- 6: http://www.uw-team.org/hm2/url.php
 
- * 7: http://www.uw-team.org/hm2/ciastka.htm
+  ```
+  cookie: nastepna_strona=ciastka.htm
+  ```
 
-    ```
-    http://www.uw-team.org/hm2/include/
-    http://www.uw-team.org/hm2/include/cosik.js
-    ```
+- 7: http://www.uw-team.org/hm2/ciastka.htm
 
- * 8: http://www.uw-team.org/hm2/listing.php
- 
-    ```
-    pass: kxnxgxnxa
-    ```
+  ```
+  http://www.uw-team.org/hm2/include/
+  http://www.uw-team.org/hm2/include/cosik.js
+  ```
 
- * 9: http://www.uw-team.org/hm2/pokaz.php
+- 8: http://www.uw-team.org/hm2/listing.php
 
-    ```
-    copy binary
-    http://lmgtfy.com/?q=binary+to+text
-    ```
+  ```
+  pass: kxnxgxnxa
+  ```
+
+- 9: http://www.uw-team.org/hm2/pokaz.php
+
+  ```
+  copy binary
+  http://lmgtfy.com/?q=binary+to+text
+  ```
 
 Koniec.
 
@@ -127,98 +127,98 @@ Koniec.
 
 <details>
 
- * 1: http://www.uw-team.org/hm3next/level1x.htm
+- 1: http://www.uw-team.org/hm3next/level1x.htm
 
-    ```
-    pass: hackme
-    ```
+  ```
+  pass: hackme
+  ```
 
- * 2: http://www.uw-team.org/hm3next/hackmex.htm
+- 2: http://www.uw-team.org/hm3next/hackmex.htm
 
-    ```
-    pass: 1245
-    ```
+  ```
+  pass: 1245
+  ```
 
- * 3: http://www.uw-team.org/hm3next/1245q3.htm
+- 3: http://www.uw-team.org/hm3next/1245q3.htm
 
-    ```
-    pass: wiola
-    ```
+  ```
+  pass: wiola
+  ```
 
- * 4: http://www.uw-team.org/hm3next/wiola.htm
+- 4: http://www.uw-team.org/hm3next/wiola.htm
 
-    ```
-    pass: ananas
-    ```
+  ```
+  pass: ananas
+  ```
 
- * 5: http://www.uw-team.org/hm3next/ananasq.htm
+- 5: http://www.uw-team.org/hm3next/ananasq.htm
 
-    ```
-    url: ?login=root&haslo=zaqq
-    ```
+  ```
+  url: ?login=root&haslo=zaqq
+  ```
 
- * 6: http://www.uw-team.org/hm3next/ciekawe.php
+- 6: http://www.uw-team.org/hm3next/ciekawe.php
 
-    ```
-    http://www.uw-team.org/hm3next/skrypty/
-    http://www.uw-team.org/hm3next/skrypty/admin.php
-    pass: tanie rozmowy!
-    ```
+  ```
+  http://www.uw-team.org/hm3next/skrypty/
+  http://www.uw-team.org/hm3next/skrypty/admin.php
+  pass: tanie rozmowy!
+  ```
 
- * 7: http://www.uw-team.org/hm3next/fajnex12.php (BRANA PODPOWIEDZ)
+- 7: http://www.uw-team.org/hm3next/fajnex12.php (BRANA PODPOWIEDZ)
 
-    ```
-    http://www.uw-team.org/hm3next/fajnex12.php?id=secret
-    pass: ' or passwd="ok
-    ```
+  ```
+  http://www.uw-team.org/hm3next/fajnex12.php?id=secret
+  pass: ' or passwd="ok
+  ```
 
- * 8: http://www.uw-team.org/hm3next/haxoruj.php
+- 8: http://www.uw-team.org/hm3next/haxoruj.php
 
-    ```
-    pass: iamthebest
-    ```
+  ```
+  pass: iamthebest
+  ```
 
- * 9: http://www.uw-team.org/hm3next/thebest.php
+- 9: http://www.uw-team.org/hm3next/thebest.php
 
-    ```
-    url: /12.php
-    ```
+  ```
+  url: /12.php
+  ```
 
- * 10: http://www.uw-team.org/hm3next/12.php
+- 10: http://www.uw-team.org/hm3next/12.php
 
-    ```
-    document.cookie="adminek=tak”
-    refresh
-    ```
+  ```
+  document.cookie="adminek=tak”
+  refresh
+  ```
 
- * 11: http://www.uw-team.org/hm3next/przerwa.php
+- 11: http://www.uw-team.org/hm3next/przerwa.php
 
-    ```
-    url: /dalsze12.php
-    ```
+  ```
+  url: /dalsze12.php
+  ```
 
- * 12: http://www.uw-team.org/hm3next/dalsze12.php
+- 12: http://www.uw-team.org/hm3next/dalsze12.php
 
-    ```
-    pass: Upm6
-    ```
+  ```
+  pass: Upm6
+  ```
 
- * 13: http://www.uw-team.org/hm3next/26zUpm6.php
+- 13: http://www.uw-team.org/hm3next/26zUpm6.php
 
-    ```
-    pass: fajne
-    ```
+  ```
+  pass: fajne
+  ```
 
- * 14: http://www.uw-team.org/hm3next/fajneqaz.php (NIE WIEM JAKIE HASŁO)
- 
- * 15: http://www.uw-team.org/hm3next/ggpr.php
+- 14: http://www.uw-team.org/hm3next/fajneqaz.php (NIE WIEM JAKIE HASŁO)
 
-    ```
-    http://www.uw-team.org/hm3next/dane/kotek.jpg
-    http://www.uw-team.org/hm3next/dane/users.txt
-    login: admin
-    pass: secret
-    ```
+- 15: http://www.uw-team.org/hm3next/ggpr.php
+
+  ```
+  http://www.uw-team.org/hm3next/dane/kotek.jpg
+  http://www.uw-team.org/hm3next/dane/users.txt
+  login: admin
+  pass: secret
+  ```
 
 Koniec.
 
@@ -254,8 +254,7 @@ Kod dostępu: f73@8c6
 
 </details>
 
-=====================================================================================
+## Więcej
 
-Więcej: http://piecioshka.pl/blog/2011/09/12/hackmemove-kolejna-odslona-programistycznych-lamiglowek.html
-
-Pomocne: https://github.com/piecioshka/wkr-szyfr-przesuwny-lub-vigenere-a/
+- http://piecioshka.pl/blog/2011/09/12/hackmemove-kolejna-odslona-programistycznych-lamiglowek.html
+- https://github.com/piecioshka/wkr-szyfr-przesuwny-lub-vigenere-a/
